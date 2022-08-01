@@ -1,0 +1,4 @@
+level1_design1
+bug at bit 12 before it was written as 5'b01101 and it should be replaced to 5'b01100.
+also added bit value for 30th.
+
